@@ -7,7 +7,7 @@ public class ComputeUnit {
         private final List<Instruction> instructions;
         private int pc = 0;
 
-        private long[] registers = new long[][16];
+        private long[] registers = new long[16];
 
 
 
@@ -18,9 +18,6 @@ public class ComputeUnit {
 
         public void run() {
 
-                 Instruction.Halt) {
-                    break;
-                }
-            }
+
         }
 }

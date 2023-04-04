@@ -1,1 +1,6 @@
-/home/nhimri/Workspace/datanumia/home/kata/savm-dop-implementation/src/main/java/com/github/himnabil/App.java
+/home/nhimri/Workspace/datanumia/home/kata/savm-dop-implementation/src/main/java/com/github/himnabil/dop/savm/Instruction.java
+/home/nhimri/Workspace/datanumia/home/kata/savm-dop-implementation/src/main/java/com/github/himnabil/dop/savm/InstructionParser.java
+/home/nhimri/Workspace/datanumia/home/kata/savm-dop-implementation/src/main/java/com/github/himnabil/dop/savm/ComputeUnit.java
+/home/nhimri/Workspace/datanumia/home/kata/savm-dop-implementation/src/main/java/com/github/himnabil/dop/savm/ComputeUnitFactory.java
+/home/nhimri/Workspace/datanumia/home/kata/savm-dop-implementation/src/main/java/com/github/himnabil/dop/savm/Channel.java
+/home/nhimri/Workspace/datanumia/home/kata/savm-dop-implementation/src/main/java/com/github/himnabil/dop/savm/App.java

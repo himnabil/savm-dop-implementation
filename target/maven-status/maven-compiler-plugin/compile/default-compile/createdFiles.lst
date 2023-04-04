@@ -1,1 +1,7 @@
-com/github/himnabil/App.class
+com/github/himnabil/dop/savm/Instruction.class
+com/github/himnabil/dop/savm/Instruction$Halt.class
+com/github/himnabil/dop/savm/InstructionParser.class
+com/github/himnabil/dop/savm/ComputeUnitFactory.class
+com/github/himnabil/dop/savm/Channel.class
+com/github/himnabil/dop/savm/App.class
+com/github/himnabil/dop/savm/ComputeUnit.class
