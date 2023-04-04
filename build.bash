@@ -5,6 +5,9 @@ set -e
 
 # Build the project using Maven
 mvn clean package
+rm -f run
+rm -f run.build_artifacts.txt
+
 
 # Create the native image
 native-image -jar target/savm-dop-implementation-1.0-SNAPSHOT.jar run
